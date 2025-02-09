@@ -34,7 +34,16 @@ I enjoy solving problems with **clean, optimized code** and always look for ways
 ## 🛠 Tech Stack  
 ### **Languages & Frameworks**  
 <img align="left" alt="Java" width="30px" style="padding-right:10;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
-<img align="left" alt="Java" width="30px" style="padding-right:10;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />       
+<img align="left" alt="Java" width="30px" style="padding-right:10;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" /> 
+<img align="left" alt="Java" width="30px" style="padding-right:10;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" />
+<img align="left" alt="Java" width="30px" style="padding-right:10;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
+<img align="left" alt="Java" width="30px" style="padding-right:10;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />
+<img align="left" alt="Java" width="30px" style="padding-right:10;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" />
+<img align="left" alt="Java" width="30px" style="padding-right:10;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" />
+<img align="left" alt="Java" width="30px" style="padding-right:10;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/discordjs/discordjs-plain.svg" />
+<img align="left" alt="Java" width="30px" style="padding-right:10;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" />
+<img align="left" alt="Java" width="30px" style="padding-right:10;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/npm/npm-original-wordmark.svg" />
+<img align="left" alt="Java" width="30px" style="padding-right:10;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-plain.svg" />
 <br clear="both" />  <!-- Added this line to clear floating elements -->
 <br clear="both" />  <!-- Added this line to clear floating elements -->
 
