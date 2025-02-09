@@ -62,7 +62,7 @@ I enjoy solving problems with **clean, optimized code** and always look for ways
 🔹 **Building API-driven applications** for automation and data processing.  
 🔹 **AI-powered Discord bots** for automation and smarter interactions
 🔹 **Real-time features** using WebSockets, and database syncing.  
-🔹 **Enhancing security** in web apps, API's, and bot development.  
+🔹 **Enhancing security** in web apps, APIs, and bot development.  
 
 ---
 
