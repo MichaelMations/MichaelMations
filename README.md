@@ -17,10 +17,17 @@ Here are some ideas to get you started:
 
 # 👋 Hey, I'm Rahm!  
 
-## 🚀 About Me  
-I'm a **JavaScript developer** passionate about building **Discord bots, websites, and backend systems**. I specialize in **Discord.js v14**, API integrations, and creating **efficient, scalable web applications**.  
+I'm a **JavaScript developer** passionate about building **Discord bots, websites, and backend systems**.  
+
+I specialize in **Discord.js v14**, API integrations, and creating **efficient, scalable web applications**.  
 
 I enjoy solving problems with **clean, optimized code** and always look for ways to improve my skills and build better tools.  
+
+---
+
+## 💼 Work & Projects  
+🔹 **Lead Developer / Owner** of **SM Bot Creation**  
+🔹 **Developer** at **WSBooking** and **Tyma**  
 
 ---
 
@@ -40,6 +47,16 @@ I enjoy solving problems with **clean, optimized code** and always look for ways
 🔹 **Building API-driven applications** for automation and data processing.  
 🔹 **Real-time features** using WebSockets and database syncing.  
 🔹 **Enhancing security** in web apps and bot development.  
+
+---
+
+## 📩 Reach Me  
+📧 **Email:** rahm@smbotcreation.com  
+📌 **GitHub:** [github.com/rahm](#)  
+💬 **Discord:** (DM for projects!)  
+
+🚀 Always open to **collaborations, coding discussions, and new projects!**  
+pps and bot development.  
 
 ---
 
