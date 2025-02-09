@@ -26,13 +26,15 @@ I enjoy solving problems with **clean, optimized code** and always look for ways
 ---
 
 ## 💼 Work & Projects  
-🔹 **Lead Developer / Owner** of **SM Bot Creation**  
-🔹 **Developer** at **WSBooking** and **Tyma**  
+🔹 **Lead Developer / Owner** of **[SM Bot Creation](https://github.com/SM-Bot-Creation)**  
+🔹 **Developer** at **[WSBooking](https://github.com/WolfietteStudios)** and **[Tyma](https://github.com/Tyma-Labs)**  
 
 ---
 
 ## 🛠 Tech Stack  
 ### **Languages & Frameworks**  
+<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+
 🖥 **Frontend:** HTML, CSS, JavaScript, TailwindCSS  
 ⚙️ **Backend:** Node.js, Express.js  
 🤖 **Discord Bot Development:** Discord.js v14  
@@ -51,17 +53,7 @@ I enjoy solving problems with **clean, optimized code** and always look for ways
 ---
 
 ## 📩 Reach Me  
-📧 **Email:** rahm@smbotcreation.com  
-📌 **GitHub:** [github.com/rahm](#)  
-💬 **Discord:** (DM for projects!)  
-
-🚀 Always open to **collaborations, coding discussions, and new projects!**  
-pps and bot development.  
-
----
-
-## 🔗 Connect With Me  
-📌 **GitHub:** [github.com/rahm](#)  
-💬 **Discord:** (DM for projects!)  
+📧 **Email:** [rahm@smbotcreation.com](mailto:rahm@smbotcreation.com) 
+💬 **Discord: [MichaelMations](https://discord.com/users/712381962341449769)**  
 
 🚀 Always open to **collaborations, coding discussions, and new projects!**  
