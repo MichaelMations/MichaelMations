@@ -60,13 +60,14 @@ I enjoy solving problems with **clean, optimized code** and always look for ways
 ## 🌱 What I’m Exploring  
 🔹 **Optimizing Discord bot performance** for large servers.  
 🔹 **Building API-driven applications** for automation and data processing.  
-🔹 **Real-time features** using WebSockets and database syncing.  
-🔹 **Enhancing security** in web apps and bot development.  
+🔹 **AI-powered Discord bots** for automation and smarter interactions
+🔹 **Real-time features** using WebSockets, and database syncing.  
+🔹 **Enhancing security** in web apps, API's, and bot development.  
 
 ---
 
 ## 📩 Reach Me  
 📧 **Email:** [rahm@smbotcreation.com](mailto:rahm@smbotcreation.com) 
-💬 **Discord: [MichaelMations](https://discord.com/users/712381962341449769)**  
+💬 **Discord:** [MichaelMations](https://discord.com/users/712381962341449769)  
 
 🚀 Always open to **collaborations, coding discussions, and new projects!**  
