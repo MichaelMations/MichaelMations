@@ -36,6 +36,8 @@ I enjoy solving problems with **clean, optimized code** and always look for ways
 <img align="left" alt="Java" width="30px" style="padding-right:10;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
 <img align="left" alt="Java" width="30px" style="padding-right:10;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />       
 <br clear="both" />  <!-- Added this line to clear floating elements -->
+<br clear="both" />  <!-- Added this line to clear floating elements -->
+
 
 🖥 **Frontend:** HTML, CSS, JavaScript, TailwindCSS  
 ⚙️ **Backend:** Node.js, Express.js  
